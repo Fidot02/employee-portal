@@ -41,7 +41,7 @@ export default function Login() {
                         <div className="w-16 h-16 bg-gradient-to-br from-blue-500 to-blue-600 rounded-xl mx-auto mb-4 flex items-center justify-center">
                             <LogIn className="w-8 h-8 text-white" />
                         </div>
-                        <h1 className="text-3xl font-bold text-slate-900 mb-2">Employee Portal</h1>
+                        <h1 className="text-3xl font-bold text-slate-900 mb-2">CYB Employee Portal</h1>
                         <p className="text-slate-600">
                             {isSignUp ? 'Create your account' : 'Sign in to your account'}
                         </p>

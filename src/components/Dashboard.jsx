@@ -66,7 +66,7 @@ export default function Dashboard() {
                                 <Briefcase className="w-6 h-6 text-white" />
                             </div>
                             <div>
-                                <h1 className="text-xl font-bold text-slate-900">Employee Portal</h1>
+                                <h1 className="text-xl font-bold text-slate-900">CYB Employee Portal</h1>
                                 {employee && (
                                     <p className="text-xs text-slate-600">
                                         {employee.first_name} {employee.last_name}
